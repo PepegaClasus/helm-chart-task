@@ -1,0 +1,5 @@
+container:
+  image: grafana/grafana
+  port: 3000
+
+name: grafana
